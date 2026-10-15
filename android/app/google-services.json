@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175173090705",
+    "project_id": "appizza-restaurant",
+    "storage_bucket": "appizza-restaurant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175173090705:android:7cdfaec03689e5d06a6e30",
+        "android_client_info": {
+          "package_name": "com.example.appizza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjUpUYWOA0Pgg1CLDcL52odu-UOp9jmRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
